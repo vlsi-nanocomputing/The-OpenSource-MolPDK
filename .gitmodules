@@ -1,0 +1,3 @@
+[submodule "SIM7"]
+	path = SIM7
+	url = ../../vlsi-nanocomputing/SIM7
