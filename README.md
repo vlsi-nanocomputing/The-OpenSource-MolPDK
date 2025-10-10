@@ -1,7 +1,3 @@
-[![DOI](https://zenodo.org/badge/-.svg)](https://zenodo.org/doi/10.5281/zenodo.17296186)
-
-
-
 # The OpenSource MolPDK
 The Open Source Molecular Field-Coupled Nanocomputing (MolFCN) Physical Design Kit, managed by the [Quantum and Nanosystem (QNANO)](https://www.vlsilab.polito.it/) at [Politecnico di Torino](https://www.polito.it/), provides a set of PDKs for the Molecular Field-Coupled (MolFCN) technology.
 
