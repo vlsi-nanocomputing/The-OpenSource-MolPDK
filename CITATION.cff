@@ -2,7 +2,8 @@ abstract: <p>The first release of the Open Source Molecular Field-Coupled Nanoco
   (MolFCN) Physical Design Kit</p>
 authors:
 - affiliation: Politecnico di Torino
-  family-names: Yuri Ardesi
+  family-names: Ardesi
+  given-names: Yuri
 - affiliation: Polytechnic University of Turin
   family-names: Beretta
   given-names: Giuliana
