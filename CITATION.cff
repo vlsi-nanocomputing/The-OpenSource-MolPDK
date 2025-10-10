@@ -1,0 +1,59 @@
+abstract: <p>The first release of the Open Source Molecular Field-Coupled Nanocomputing
+  (MolFCN) Physical Design Kit</p>
+authors:
+- affiliation: Politecnico di Torino
+  family-names: Yuri Ardesi
+- affiliation: Polytechnic University of Turin
+  family-names: Beretta
+  given-names: Giuliana
+  orcid: 0000-0001-7907-5758
+- affiliation: Polytechnic University of Turin
+  family-names: Graziano
+  given-names: Mariagrazia
+  orcid: 0000-0002-8721-9990
+- affiliation: Technical University of Munich
+  family-names: Hien
+  given-names: Benjamin
+  orcid: 0000-0002-6878-8063
+- affiliation: Polytechnic University of Turin
+  family-names: Listo
+  given-names: Roberto
+  orcid: 0009-0003-9777-7923
+- affiliation: Polytechnic University of Turin
+  family-names: Piccinini
+  given-names: Gianluca
+  orcid: 0000-0002-9385-6195
+- affiliation: Polytechnic University of Turin
+  family-names: Quinci
+  given-names: Danilo
+  orcid: 0009-0006-6747-9185
+- affiliation: Polytechnic University of Turin
+  family-names: Ravera
+  given-names: Federico
+  orcid: 0000-0001-9850-0764
+- affiliation: Polytechnic University of Turin
+  family-names: Riente
+  given-names: Fabrizio
+  orcid: 0000-0003-4147-1098
+- affiliation: Polytechnic University of Turin
+  family-names: Vacca
+  given-names: Marco
+  orcid: 0000-0003-2920-3357
+- affiliation: Technical University of Munich
+  family-names: Walter
+  given-names: Marcel
+  orcid: 0000-0001-5660-9518
+- affiliation: Technical University of Munich
+  family-names: Wille
+  given-names: Robert
+  orcid: 0000-0002-4993-7860
+cff-version: 1.2.0
+date-released: '2025-10-10'
+doi: 10.5281/zenodo.17311212
+license:
+- mit
+message: If you use this software, please cite it using the metadata from this file.
+repository-code: https://github.com/vlsi-nanocomputing/The-OpenSource-MolPDK/tree/v1.0
+title: 'vlsi-nanocomputing/The-OpenSource-MolPDK: v1.0'
+type: software
+version: v1.0

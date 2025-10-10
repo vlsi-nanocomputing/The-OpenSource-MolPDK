@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17311212.svg)](https://doi.org/10.5281/zenodo.17311212)
+
+
 # The OpenSource MolPDK
 The Open Source Molecular Field-Coupled Nanocomputing (MolFCN) Physical Design Kit, managed by the [Quantum and Nanosystem (QNANO)](https://www.vlsilab.polito.it/) at [Politecnico di Torino](https://www.polito.it/), provides a set of PDKs for the Molecular Field-Coupled (MolFCN) technology.
 
@@ -22,13 +25,33 @@ If you use need to cite The-OpenSource-MolPDK you can cite it with the zenodo co
 
 
 ```
---
+Yuri Ardesi, Giuliana Beretta, Mariagrazia Graziano, Benjamin Hien, Roberto Listo, Gianluca Piccinini, Danilo Quinci, Federico Ravera, Fabrizio Riente, Marco Vacca, Marcel Walter, Robert Wille,“vlsi-nanocomputing/The-OpenSource-MolPDK: v1.0”. Zenodo, Oct. 10, 2025. doi: 10.5281/zenodo.17311212.
 ```
 
 Also available in the BibTeX format:
 
 ```
---
+@software{MolPDK,
+  author       = {Yuri Ardesi and
+                  Beretta, Giuliana and
+                  Graziano, Mariagrazia and
+                  Hien, Benjamin and
+                  Listo, Roberto and
+                  Piccinini, Gianluca and
+                  Quinci, Danilo and
+                  Ravera, Federico and
+                  Riente, Fabrizio and
+                  Vacca, Marco and
+                  Walter, Marcel and
+                  Wille, Robert},
+  title        = {vlsi-nanocomputing/The-OpenSource-MolPDK: v1.0},
+  month        = oct,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {v1.0},
+  doi          = {10.5281/zenodo.17311212},
+  url          = {https://doi.org/10.5281/zenodo.17311212},
+}
 ```
 
 Citations for the single libraries and tools can be found in their repositories. 
@@ -43,7 +66,7 @@ git clone https://github.com/vlsi-nanocomputing/The-OpenSource-MolPDK.git
 
 # Changelog
 
-- Version 1: Created the MolPDK
+- Version 1.0: Created the MolPDK
     - Added MolPDK-SIM(7) - v1
     - Created the MolPDK
 
