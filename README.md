@@ -32,7 +32,7 @@ Also available in the BibTeX format:
 
 ```
 @software{MolPDK,
-  author       = {Yuri, Ardesi and
+  author       = {Ardesi, Yuri and
                   Beretta, Giuliana and
                   Graziano, Mariagrazia and
                   Hien, Benjamin and
