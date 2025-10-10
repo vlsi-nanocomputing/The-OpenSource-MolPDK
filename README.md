@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/-.svg)](https://zenodo.org/doi/10.5281/zenodo.17296186)
+
+
+
 # The OpenSource MolPDK
 The Open Source Molecular Field-Coupled Nanocomputing (MolFCN) Physical Design Kit, managed by the [Quantum and Nanosystem (QNANO)](https://www.vlsilab.polito.it/) at [Politecnico di Torino](https://www.polito.it/), provides a set of PDKs for the Molecular Field-Coupled (MolFCN) technology.
 
@@ -22,13 +26,13 @@ If you use need to cite The-OpenSource-MolPDK you can cite it with the zenodo co
 
 
 ```
---- zenodo pure citation
+--
 ```
 
 Also available in the BibTeX format:
 
 ```
----
+--
 ```
 
 Citations for the single libraries and tools can be found in their repositories. 
